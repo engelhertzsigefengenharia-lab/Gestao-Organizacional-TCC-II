@@ -1,6 +1,6 @@
 📁 01-Projeto
 Orientações do professor
-├── 01-Planejamento
+├── 01-Planejamento;
 │   ├── Cronograma
 │   ├── Escopo
 │   ├── Objetivos
