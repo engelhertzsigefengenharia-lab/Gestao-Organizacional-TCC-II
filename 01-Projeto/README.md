@@ -1,9 +1,7 @@
 📁 01-Projeto
 
 ## Orientações do professor
-Plano de Trabalho
-
-├── 01-Planejamento
+Plano de Trabalho (01-Planejamento)
 
 │   ├── Cronograma
 
@@ -14,5 +12,3 @@ Plano de Trabalho
 │   ├── Requisitos
 
 │   └── Reuniões
-
-Versão 0.1
