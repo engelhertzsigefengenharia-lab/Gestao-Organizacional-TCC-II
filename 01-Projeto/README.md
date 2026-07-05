@@ -1,37 +1,18 @@
-# SIGEF - Knowledge Base
-
 📁 01-Projeto
 
+## Orientações do professor
 Plano de Trabalho
 
-Cronograma aprovado
-Escopo
-Orientações do professor
+├── 01-Planejamento
 
-📁 database
+│   ├── Cronograma
 
-📁 excel
+│   ├── Escopo
 
-📁 dashboard
+│   ├── Objetivos
 
-📁 drawio
+│   ├── Requisitos
 
-📁 python
-
-📁 references
-
-📁 reports
-
----
-
-## Objetivo
-
-Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, referências e evolução do projeto SIGEF.
-
----
-
-## Status
-
-🚧 Em desenvolvimento
+│   └── Reuniões
 
 Versão 0.1
