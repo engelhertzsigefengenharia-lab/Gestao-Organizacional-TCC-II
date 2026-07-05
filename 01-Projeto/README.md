@@ -1,13 +1,9 @@
-# SIGEF Knowledge Base
-
-Base oficial de documentação do projeto SIGEF.
-
----
-
-## Estrutura
+# SIGEF - Knowledge Base
 
 📁 01-Projeto
+
 Plano de Trabalho
+
 Cronograma aprovado
 Escopo
 Orientações do professor
