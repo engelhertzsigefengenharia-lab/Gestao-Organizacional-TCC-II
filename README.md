@@ -57,6 +57,24 @@ Versão 0.1
 ## Conexão Knowledge Base - Engelhertz.SIGEF vs Knowledge Base - TCC II.
 
 engelhertz-labs-br
+
+┌──────────────────────────────────────┐
+│                                      │
+│ tcc-ii                               │
+│                                      │
+│ Introdução                           │
+│ Fundamentação                        │
+│ Metodologia                          │
+│ Desenvolvimento                      │
+│ Resultados                           │
+│ Defesa                               │
+│ Versão Final                         │
+│                                      │
+└──────────────────────────────────────┘
+
+               │
+               │ fornece conhecimento
+               ▼
 │
 ├──────────────────────────────────────┐
 │                                      │
@@ -72,19 +90,3 @@ engelhertz-labs-br
 │ BI                                  │
 │                                      │
 └──────────────┬───────────────────────┘
-               │
-               │ fornece conhecimento
-               ▼
-┌──────────────────────────────────────┐
-│                                      │
-│ tcc-ii                               │
-│                                      │
-│ Introdução                           │
-│ Fundamentação                        │
-│ Metodologia                          │
-│ Desenvolvimento                      │
-│ Resultados                           │
-│ Defesa                               │
-│ Versão Final                         │
-│                                      │
-└──────────────────────────────────────┘
