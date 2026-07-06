@@ -1,37 +1,55 @@
-# SIGEF Knowledge Base
+# SIGEF Knowledge Base - TCC II.
 
-Base oficial de documentação do projeto SIGEF.
-
----
-
-## Estrutura
-
-📁 docs
-
-📁 database
-
-📁 excel
-
-📁 dashboard
-
-📁 drawio
-
-📁 python
-
-📁 references
-
-📁 reports
-
----
+## Sistema Integrado para Gestão de Engenharia (SIGEF).
 
 ## Objetivo
 
 Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, referências e evolução do projeto SIGEF.
 
----
+## Base oficial de documentação do projeto SIGEF.
+Autor:
+Matheus Ribeiro Pereira Santos.
 
-## Status
+Orientador:
+Professor Telmo.
 
-🚧 Em desenvolvimento
+Instituição:
+Instituto Federal da Bahia.
+
+Status
+
+🚧 Em desenvolvimento.
+
+Cronograma : 
+
+⬜ Projeto
+
+⬜ Revisão Bibliográfica
+
+⬜ Desenvolvimento
+
+⬜ Escrita
+
+⬜ Defesa
+
+Estrutura : 
+
+📁 01 Projeto
+
+📁 02 Pré-Projeto
+
+📁 03 Capítulos
+
+📁 04 Figuras
+
+📁 05 Tabelas
+
+📁 06 Apêndices
+
+📁 07 Anexos
+
+📁 08 Apresentação
+
+📁 09 Versões
 
 Versão 0.1
