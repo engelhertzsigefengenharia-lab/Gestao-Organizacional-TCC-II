@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, referências e evolução do projeto SIGEF.
+## Centralizar toda a documentação, arquitetura, modelos de dados, protótipos, referências e evolução do projeto SIGEF.
 
 ## Base oficial de documentação do projeto SIGEF.
 Autor:
