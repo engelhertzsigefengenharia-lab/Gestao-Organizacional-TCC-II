@@ -53,3 +53,38 @@ Estrutura :
 📁 09 Versões
 
 Versão 0.1
+
+## Conexão Knowledge Base - Engelhertz.SIGEF vs Knowledge Base - TCC II.
+
+engelhertz-labs-br
+│
+├──────────────────────────────────────┐
+│                                      │
+│ knowledge-base                       │
+│                                      │
+│ Pesquisas                            │
+│ Artigos                              │
+│ Dados                               │
+│ Python                              │
+│ Dashboards                          │
+│ Modelagem                           │
+│ Diagramas                           │
+│ BI                                  │
+│                                      │
+└──────────────┬───────────────────────┘
+               │
+               │ fornece conhecimento
+               ▼
+┌──────────────────────────────────────┐
+│                                      │
+│ tcc-ii                               │
+│                                      │
+│ Introdução                           │
+│ Fundamentação                        │
+│ Metodologia                          │
+│ Desenvolvimento                      │
+│ Resultados                           │
+│ Defesa                               │
+│ Versão Final                         │
+│                                      │
+└──────────────────────────────────────┘
