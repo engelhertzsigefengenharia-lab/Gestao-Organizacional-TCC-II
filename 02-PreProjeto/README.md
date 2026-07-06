@@ -2,7 +2,7 @@
 
 ## Tudo relacionado ao TCC I e II.
 
-Pesquisa científica ( 02-Revisao-Literatura TCC I e II).
+Pesquisa científica (02-Revisao-Literatura TCC I e II).
 
 │   ├── Artigos
 
@@ -14,9 +14,7 @@ Pesquisa científica ( 02-Revisao-Literatura TCC I e II).
 
 │   └── Resumos
 
-Pesquisa científica (03-Normas-e-Legislacao).
-│
-├── 03-Normas-e-Legislacao
+Normas técnicas (03-Normas-e-Legislacao).
 
 │   ├── ABNT
 
@@ -28,9 +26,7 @@ Pesquisa científica (03-Normas-e-Legislacao).
 
 │   └── Outra
 
-Normas técnicas
-
-├── 04-Dados
+Dados (04-Dados).
 
 │   ├── Dataset
 
@@ -41,8 +37,8 @@ Normas técnicas
 │   ├── CSV
 
 │   └── SQL
-│
-├── 05-Modelagem
+
+Modelagem (05-Modelagem).
 
 │   ├── Diagramas
 
@@ -53,8 +49,8 @@ Normas técnicas
 │   ├── DrawIO
 
 │   └── Arquitetura
-│
-├── 06-Desenvolvimento
+
+Desenvolvimento (06-Desenvolvimento).
 
 │   ├── Python
 
@@ -65,8 +61,9 @@ Normas técnicas
 │   ├── Automacoes
 
 │   └── Testes
-│
-├── 07-Business-Intelligence
+
+
+Desenvolvimento (07-Business-Intelligence).
 
 │   ├── Dashboards
 
