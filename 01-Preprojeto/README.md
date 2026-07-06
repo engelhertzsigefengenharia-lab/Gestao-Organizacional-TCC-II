@@ -1,4 +1,4 @@
-📁 01-Projeto
+📁 01-Preprojeto
 
 ## Orientações do professor
 Plano de Trabalho (01-Planejamento)
