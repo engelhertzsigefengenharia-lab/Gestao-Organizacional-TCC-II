@@ -14,3 +14,8 @@ Capitulo-4
 
 Capitulo-5
     resultados.md
+
+Defesa -6
+    Defesa.md
+Apresentacoes -7
+    Apresentacoes.md
