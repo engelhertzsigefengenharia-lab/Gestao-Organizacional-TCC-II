@@ -1,4 +1,4 @@
-📁 02-PreProjeto
+📁 02-Projeto
 
 ## Tudo relacionado ao TCC I e II.
 
